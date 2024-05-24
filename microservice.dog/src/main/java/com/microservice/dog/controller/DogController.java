@@ -3,7 +3,6 @@ package com.microservice.dog.controller;
 
 import com.microservice.dog.entities.Dog;
 import com.microservice.dog.service.IDogService;
-import io.micrometer.core.instrument.Meter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
